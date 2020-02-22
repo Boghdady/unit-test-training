@@ -1,0 +1,13 @@
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/UnitTestTraining.deps.json
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/UnitTestTraining.runtimeconfig.json
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/UnitTestTraining.runtimeconfig.dev.json
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/UnitTestTraining.dll
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/bin/Debug/netcoreapp2.1/UnitTestTraining.pdb
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/obj/Debug/netcoreapp2.1/UnitTestTraining.csprojAssemblyReference.cache
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/obj/Debug/netcoreapp2.1/UnitTestTraining.AssemblyInfoInputs.cache
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/obj/Debug/netcoreapp2.1/UnitTestTraining.AssemblyInfo.cs
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/obj/Debug/netcoreapp2.1/UnitTestTraining.dll
+/Users/index/AutomationTesting/UnitTestTraining/UnitTestTraining/obj/Debug/netcoreapp2.1/UnitTestTraining.pdb
